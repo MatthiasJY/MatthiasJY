@@ -4,21 +4,24 @@
 <h3 align="center">Exploring new ways on how data can excite my life!</h3>
 <br/>
 
-Hi! Jing Yi here.
+Hello, Jing Yi here!
+I’m a media planner turned data analyst with experience in SQL, Excel, Python, and Tableau. I leverage my creative strategy background and technical skills to extract insights, automate workflows, and build impactful visualizations.
 
-As a former media planner turned data analyst, I bring a unique blend of creative strategy and technical expertise to the table. My journey from media planning to analytics has equipped me with a deep understanding of how data drives decision-making and innovation.
+I specialize in optimized SQL queries, Python scripts for analytics, and Tableau dashboards to inform strategic decisions. Focused on solving business challenges and uncovering growth opportunities, I’m passionate about delivering data-driven solutions. Let’s connect and collaborate on impactful projects!
 
-In my current role, I specialize in leveraging tools like SQL, Excel, Python, and Tableau to extract insights, automate workflows, and create compelling visualizations. From writing optimized SQL queries for data exploration to crafting Python scripts for predictive analytics, I aim to transform raw data into actionable insights.
+**Skills** 🔨
 
-I am passionate about solving business challenges, optimizing processes, and helping teams uncover growth opportunities. Whether it's building dashboards in Tableau to inform strategic decisions or using Python to analyze customer behavior, my goal is to deliver value through data-driven solutions.
 
-## Skills & Certifications 🔨
 
-[Hello](www.google.com) 
+**Data Projects** 🖥️
 
-## Data Projects 🖥️
+[General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
 
-General Assembly Capstone Project
+Created a Revenue forecasting model and a Recommendation System with Collaborative Filtering using Python for my Capstone project in General Assembly. View more details in the link above!
+
+*Work in Progress*
+
+I'm currently creating a Content Based Recommendation System to recommend the next restaurant to visit with my girlfriend based on the places that recived a high rating from us. The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore 
 
 ## Employment History 📊
 
