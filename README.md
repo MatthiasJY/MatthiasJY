@@ -21,7 +21,7 @@ This is just the beginning of my journey in the Data world, stay tuned for more 
 
 ## Data Projects 🖥️
 
-<img src="capstone_proj.png" alt="Capstone Project" width="500" height="300" />
+<img src="capstone_proj.png" alt="Capstone Project" width="500" height="300"/>
 
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
 
