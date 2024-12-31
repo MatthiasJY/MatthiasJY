@@ -4,39 +4,34 @@
 <h3 align="center">Exploring new ways on how data can excite my life!</h3>
 <br/>
 
-Hello, Jing Yi here!
-I’m a media planner turned data analyst with experience in SQL, Excel, Python, and Tableau. I leverage my creative strategy background and technical skills to extract insights, automate workflows, and build impactful visualizations.
+## About Me 👨🏻‍💻
 
-I specialize in optimized SQL queries, Python scripts for analytics, and Tableau dashboards to inform strategic decisions. Focused on solving business challenges and uncovering growth opportunities, I’m passionate about delivering data-driven solutions. Let’s connect and collaborate on impactful projects!
+**Hello!**
+I was a media planner for 4 years, before pivoting into the role of a data analyst. I wanted to compliment my media planning skills with something new, exciting, and creative, and I found just the perfect role for that: A Data Analyst! Leveraging on my creative strategy background and technical skills to extract insights from campaigns, automate workflows, and build impactful visualizations for client presentations, being a Data Analyst. I've pick up new skills in SQL, Python, and Tableau, learning about Databases, how to manage them, processing data, storing data, and even presenting them with specialised tools. 
 
-**Skills** 🔨
+I specialize in optimized SQL queries, Python scripts for analytics, and Tableau dashboards to inform strategic decisions. Focused on solving business challenges and uncovering growth opportunities, I’m passionate about delivering data-driven solutions. I love the flexibility and creativeness data gives for me to create my own projects, the struggle (Google, Stackoverflow, and now Chatgpt) 
+
+
+**Skills**
 
 
 
-**Data Projects** 🖥️
+## Data Projects 🖥️
 
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
 
-Created a Revenue forecasting model and a Recommendation System with Collaborative Filtering using Python for my Capstone project in General Assembly. View more details in the link above!
+In this project, I created a Revenue forecasting model and a Recommendation System with Collaborative Filtering using Python for my Capstone project in General Assembly. View more details in the link above!
 
 *Work in Progress*
 
 I'm currently creating a Content Based Recommendation System to recommend the next restaurant to visit with my girlfriend based on the places that recived a high rating from us. The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore 
 
-## Employment History 📊
-
-FIRSTCOM SOLUTIONS | Campaign Executive<br/>
-Jan 2021 -  May 2022
-
-Conceptualise and execute content and advertising strategies on Meta (Facebook & Instagram)<br/>
-Assisted clients in growing Page Like by 20% - 50% organically over 3 months, and achieving around 100% increase in sales on third party delivery platform <br/>
-Serviced 8 - 12 clients constantly, managing varying expectations, and meeting their needs in multiple ways including liaising with third party vendors, meeting creative standards, and ad hoc requests<br/>
-
 ## Education 📚
 
-General Assembly | Data Analyst Immersive Course<br/>
+**General Assembly | Data Analyst Immersive Course**<br/>
 Sept 2024 - Dec 2024<br/>
-Technical Skills:  Excel, SQL, Python, Tableau, PowerBI
+Skills:  Excel, SQL, Python, Tableau, PowerBI
 
-RMIT | Bachelor of Marketing<br/>
-Jan 2017 - Dec 2019
+**RMIT | Bachelor’s Degree in Marketing**<br/>
+Jan 2017 - Dec 2019<br/>
+Skills: Strategic Marketing Planning, Market Research, Brand Management
