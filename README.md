@@ -7,31 +7,35 @@
 ## About Me 👨🏻‍💻
 
 **Hello!**
-I was a media planner for 4 years, before pivoting into the role of a data analyst. I wanted to compliment my media planning skills with something new, exciting, and creative, and I found just the perfect role for that: A Data Analyst! Leveraging on my creative strategy background and technical skills to extract insights from campaigns, automate workflows, and build impactful visualizations for client presentations, being a Data Analyst. I've pick up new skills in SQL, Python, and Tableau, learning about Databases, how to manage them, processing data, storing data, and even presenting them with specialised tools. 
+I was a media planner for 4 years, before pivoting into the role of a data analyst. I wanted to complement my media planning skills with something new, exciting, and creative. Leveraging on my creative strategy background and technical skills to extract insights from campaigns, automate workflows, and build impactful visualizations for client presentations, I found just the perfect role for that: being a Data Analyst! I've pick up new skills and understanding about the Data world, and have started to become proficient in optimizing SQL queries, writing Python scripts for analytics, and using Tableau dashboards to make informed strategic decisions. Ultimately, my role as a Data Analyst is to focused on solving business challenges and uncover growth opportunities through the numbers and figures.
 
-I specialize in optimized SQL queries, Python scripts for analytics, and Tableau dashboards to inform strategic decisions. Focused on solving business challenges and uncovering growth opportunities, I’m passionate about delivering data-driven solutions. I love the flexibility and creativeness data gives for me to create my own projects, the struggle (Google, Stackoverflow, and now Chatgpt) 
+This is just the beginning of my journey in the Data world, stay tuned for more updates as I continue to hone my technical skills in SQL, Python, Tableau and more, while exploring how Data can bring a new sense of adventure and excitement into my life!
 
+### Techincal Skills 🛠️
 
-**Skills**
-
+**Data Extraction & Cleaning:** SQL, Excel, Python (Pandas, NumPy)<br/>
+**Data Visualisation:** Tableau, Power BI, Python (MatPlotLib, Plotly)<br/>
+**Forecasting Models:** Python (Prophet, ARIMA, SARIMA)<br/>
+**Machine Learning:** Python (Linear Regression, Collaborative Filtering) 
 
 
 ## Data Projects 🖥️
 
+<img src="capstone_proj.png" alt="Capstone Project" width="500" height="300" />
+
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
 
-In this project, I created a Revenue forecasting model and a Recommendation System with Collaborative Filtering using Python for my Capstone project in General Assembly. View more details in the link above!
+In this project, I created a Revenue forecasting model and a Recommendation System with Collaborative Filtering using Python.<br/>
+I worked with a dataset of an E-commerce store found on Kaggle and came up with a problem statement which will then be solved using insights found in the dataset and Python models. 
+View more details in the link above!
 
-*Work in Progress*
 
-I'm currently creating a Content Based Recommendation System to recommend the next restaurant to visit with my girlfriend based on the places that recived a high rating from us. The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore 
+***Work in Progress*** ⚠️
 
-## Education 📚
+I'm currently creating a Content Based Recommendation System to recommend the next restaurant to visit with my girlfriend based on the places that received a high rating from us. The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore 
 
-**General Assembly | Data Analyst Immersive Course**<br/>
-Sept 2024 - Dec 2024<br/>
-Skills:  Excel, SQL, Python, Tableau, PowerBI
 
-**RMIT | Bachelor’s Degree in Marketing**<br/>
-Jan 2017 - Dec 2019<br/>
-Skills: Strategic Marketing Planning, Market Research, Brand Management
+## Let's Connect 📬
+
+.<br/>
+Looking forward to connecting with you!
