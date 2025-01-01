@@ -21,7 +21,7 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 ## Data Projects 🖥️
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1M2doZjA5NGdnNGhzY200cnpraW4zYXpqY20wbHZsbDRxZ3d5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif" width="200" height="140" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcWN1OWJlZnZkY2J6OWNraHNscWx1d2lwZmhvdXNpaHBlaGZ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xEEzPgehze0DBsyX6/giphy.gif" width="400" height="240" />
 
 **The Problem Statement:** An E-commerce company is looking to acquire new customers to shop on their online marketplace<br/> 
 
