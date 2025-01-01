@@ -21,7 +21,7 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 ## Data Projects 🖥️
 
-<img src="https://tenor.com/5jWe.gif" width="200" height="200" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1M2doZjA5NGdnNGhzY200cnpraW4zYXpqY20wbHZsbDRxZ3d5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif" width="200" height="140" />
 
 **The Problem Statement:** An E-commerce company is looking to acquire new customers to shop on their online marketplace<br/> 
 
@@ -35,10 +35,9 @@ View more details in the link below!<br/>
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
 
 
+## Work in Progress ⚠️
 
-### Work in Progress ⚠️
-
-**The Restaurant Recommender**
+### The Restaurant Recommender
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1M2doZjA5NGdnNGhzY200cnpraW4zYXpqY20wbHZsbDRxZ3d5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif" width="200" height="140" />
 
