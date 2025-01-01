@@ -27,6 +27,8 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 This project was done with a dataset of an E-commerce company found on Kaggle. 
 
+![Maps](https://giphy.com/gifs/devrock-developer-ubicacion-pincho-lOfSzpPeMb9gF2OJ5O)
+
 **The Problem Statement:** The upper management of this E-commerce company is looking to attract new customers to shop on their online marketplace.<br/>
 After some internal investigation and research, the upper management of the company concluded that they would need a new personalised shopping experience for each customer, and also a more personalised or localised marketing when it comes to the products themselves. Gone are the days where marketing and experiences can be generic. Thus, they would like to know how these 2 issues can be solved.  
 
