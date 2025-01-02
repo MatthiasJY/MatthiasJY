@@ -21,6 +21,8 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 ## Data Projects 🖥️
 
+### E-Commerce Customer Acquistion Project
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcWN1OWJlZnZkY2J6OWNraHNscWx1d2lwZmhvdXNpaHBlaGZ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xEEzPgehze0DBsyX6/giphy.gif" width="400" height="240" />
 
 **The Problem Statement:** An E-commerce company is looking to acquire new customers to shop on their online marketplace<br/> 
@@ -43,7 +45,9 @@ View more details in the link below!<br/>
 
 **Project Idea:** To create a Content Based Recommendation System to recommend the next restaurant to visit based on the places that received a high rating<br/> 
 
-**Project Method:** The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore, rank them based on locations, Google Ratings, and hopefully (not sure if it's possible) on cusine. The end result is to create a model that can recommend the next restaurant that has a high review, not too inaccessible, which also serves a cuisine that has received a high rating from us recently. 
+**Project Method:** The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore, rank them based on locations, Google Ratings, and on cusine dynamically (meaning the score for each cuisine will change depending on the rating we provide). The end result is to create a model that can recommend the next restaurant that has a high review, not too inaccessible, which also serves a cuisine that has received a high rating from us recently. 
+
+*p.s. My understanding of Content Based Recommendation is growing as I work on this weekly. Final method might not be what is stated here as I learn what can and cannot be done.* 
 
 
 ## Let's Connect 📬
