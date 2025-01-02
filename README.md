@@ -28,11 +28,10 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 **The Problem Statement:** An E-commerce company is looking to acquire new customers to shop on their online marketplace<br/> 
 
 **Project Summmary:** 
-- Personalisation and localisation is the way to go
-- Transaction forecasting model with Prophet and a Recommendation System with Collaborative Filtering was created through Python
-- Initial data exploration and insights gathering done in Tableau
-- The Transcation forecasting model will allow the company to predict the monthly transaction value for the next 6 months, based on each individual Product and State. This will allow the marketing to be more specific and localised
-- The Recommendation System will provide both new and exsiting customer a more personalised shopping experience as they will be recommended products based on other customers who are similar to them
+- Transaction forecasting model with **Prophet** and a Recommendation System with **Collaborative Filtering** was created through **Python**
+- Initial **data exploration** and **insights** gathering done in **Tableau**
+- The Transcation forecasting model will allow the company to predict the monthly **transaction value for the next 6 months, based on each individual Product and State**. This will allow the marketing to be more specific and localised
+- The Recommendation System will provide both new and exsiting customer a more personalised shopping experience as they will be **recommended products based on other customers who are similar** to them
 
 View more details in the link below!<br/>
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
