@@ -7,7 +7,7 @@
 ## About Me 👨🏻‍💻
 
 **Hello!**
-I was a media planner for 4 years and I wanted to complement my media planning skills with **something new, exciting, and creative**. Leveraging on my existing skills to **extract insights from campaigns, automate workflows, and build impactful visualizations**, I found just the perfect role for that: a **Data Analyst!** I've started to become proficient in **optimizing SQL queries, writing Python scripts for analytics, and using Tableau dashboards** to make informed strategic decisions. Ultimately, my role as a Data Analyst is to focused on **solving business challenges** and **uncover growth opportunities through the numbers and figures**, and I aim to achieve that through these new skills.
+I was a media planner for 4 years and I wanted to complement my media planning skills with **something new, exciting, and creative**. Leveraging on my existing skills to **extract insights from campaigns, automate workflows, and build impactful visualizations**, I found just the perfect skill for that: **Data Analytics!** I've started to become proficient in **optimizing SQL queries, writing Python scripts for analytics, and using Tableau dashboards** to make informed strategic decisions. Ultimately, I want to focus on **solving business challenges** and **uncover growth opportunities through the numbers and figures**, and I aim to achieve that through these new skills.
 
 Stay tuned for more updates as I continue to hone my technical skills in SQL, Python, Tableau and more, while exploring how Data can bring a new sense of adventure and excitement into my life!
 
