@@ -21,7 +21,7 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 ## Data Projects 🖥️
 
-### [E-Commerce Customer Acquistion Project](https://github.com/MatthiasJY/GA_Capstone)
+### <u>[E-Commerce Customer Acquisition Project](https://github.com/MatthiasJY/GA_Capstone)</u>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BrcWN1OWJlZnZkY2J6OWNraHNscWx1d2lwZmhvdXNpaHBlaGZ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xEEzPgehze0DBsyX6/giphy.gif" width="400" height="240" />
 
