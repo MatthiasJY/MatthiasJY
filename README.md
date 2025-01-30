@@ -13,7 +13,7 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 ### Techincal Skills 🛠️
 
-- **Data Extraction & Cleaning:** SQL, Excel, Python (Pandas, NumPy)
+- **Data Extraction & Cleaning:** SQL, Excel, Python (Pandas)
 - **Data Visualisation:** Tableau, Power BI, Python (MatPlotLib, Plotly)
 - **Forecasting Models:** Python (Prophet, ARIMA, SARIMA)
 - **Machine Learning:** Python (Linear Regression, Collaborative Filtering) 
