@@ -7,9 +7,8 @@
 ## About Me 👨🏻‍💻
 
 **Hello!**
-I was a media planner for 4 years and I wanted to complement my media planning skills with **something new, exciting, and creative**. Leveraging on my existing skills to **extract insights from campaigns, automate workflows, and build impactful visualizations**, I found just the perfect skill for that: **Data Analytics!** I've started to become proficient in **optimizing SQL queries, writing Python scripts for analytics, and using Tableau dashboards** to make informed strategic decisions. Ultimately, I want to focus on **solving business challenges** and **uncover growth opportunities through the numbers and figures**, and I aim to achieve that through these new skills.
+I was in the marketing industry for 4 years, and based on my existing skills to **extract insights from campaigns, automate workflows, and build impactful visualizations**, I found the perfect complementary skill for that: **Data Analytics!** I've started to become proficient in **optimizing SQL queries, writing Python scripts for analytics, and using Tableau dashboards** to make informed strategic decisions. Ultimately, I want to focus on **solving business challenges** and **uncover growth opportunities through the numbers and figures**, and I aim to achieve that through these new skills.
 
-Stay tuned for more updates as I continue to hone my technical skills in SQL, Python, Tableau and more, while exploring how Data can bring a new sense of adventure and excitement into my life!
 
 ### Techincal Skills 🛠️
 
@@ -35,19 +34,6 @@ Stay tuned for more updates as I continue to hone my technical skills in SQL, Py
 
 View more details in the link below!<br/>
 [General Assembly Capstone Project](https://github.com/MatthiasJY/GA_Capstone)
-
-
-## Work in Progress ⚠️
-
-### The Restaurant Recommender
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN1M2doZjA5NGdnNGhzY200cnpraW4zYXpqY20wbHZsbDRxZ3d5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif" width="200" height="140" />
-
-**Project Idea:** To create a Content Based Recommendation System to recommend the next restaurant to visit based on the places that received a high rating<br/> 
-
-**Project Method:** The idea I have is to make use of Google Maps API to retrieve a list of restaurants in Singapore, rank them based on locations, Google Ratings, and on cusine dynamically (meaning the score for each cuisine will change depending on the rating we provide). The end result is to create a model that can recommend the next restaurant that has a high review, not too inaccessible, which also serves a cuisine that has received a high rating from us recently. 
-
-*p.s. My understanding of Content Based Recommendation is growing as I work on this weekly. Final method might not be what is stated here as I learn what can and cannot be done.* 
 
 
 ## Let's Connect 📬
